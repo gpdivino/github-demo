@@ -4,7 +4,7 @@ This is a simple demo exercise for Git. By GP
 
 ## Introduction
 
-This is an intro to Git
+This is an intro to Git to learn about the basic commands
 
 ## Purpose
 
