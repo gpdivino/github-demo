@@ -1,6 +1,6 @@
 # Git Demo Project
 
-This is a simple demo exercise for Git
+This is a simple demo exercise for Git. By GP
 
 ## Introduction
 
